@@ -11,6 +11,10 @@ It includes time series analysis and sales forecasting to track sales trends ove
 * COD is the most frequently used payment method.
 * In the central region, office supplies, particularly chairs, have higher sales, while in other regions, phones are the top-selling product.
 * Highest sales in the West region.
+
+## Recomendation:
+* To reduce COD deliveries, incentivize online payments through discounts or offers, improve customer trust in digital payments,
+   and enhance the convenience and security of online payment options.
   
 
 ## Dashboard
